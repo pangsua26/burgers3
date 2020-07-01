@@ -1,0 +1,56 @@
+body {
+    width: 99%;
+    height: 900px;
+    background-color: #fc6;
+  }
+
+  h1 {
+    color: #f30;
+  }
+  
+  #burger-image {
+    margin-top: 28px;
+  }
+  
+  .input_area {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  #text_area {
+    width: 400px;
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    font-size: 38px;
+  }
+  
+  .box {
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+  }
+  
+  .button-size {
+    padding-bottom: 20px;
+  }
+  
+  #text-enter-button {
+    margin-top: 10px;
+    margin-bottom: 18px;
+  }
+  
+  @media (min-width: 1200px) {
+    .container {
+      width: 990px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .container {
+      width: 990px;
+    }
+  }
+  
