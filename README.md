@@ -20,3 +20,5 @@ I was able to utilize the CatsApp to assist with the coding so that was helpful.
 
 2. I had trouble with loading to Heroku as indicated and hope to continue to work on this also.
 ![Heroku Image](public/assets/heroku.png)
+
+3. I had to delete and recreate my burger repos three times because I kept on forgetting to remove my password.
