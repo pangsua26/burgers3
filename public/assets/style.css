@@ -8,17 +8,17 @@ body {
     color: #f30;
   }
   
-  #burger-image {
+  #top-bar {
     margin-top: 28px;
   }
   
-  .input_area {
+  .enter_section {
     margin-top: 30px;
     margin-bottom: 30px;
     text-align: center;
   }
   
-  #text_area {
+  #enter_text {
     width: 400px;
     height: 80px;
     padding-top: 10px;
@@ -27,7 +27,7 @@ body {
     font-size: 38px;
   }
   
-  .box {
+  .task {
     border-color: black;
     border-style: solid;
     border-width: 3px;
@@ -54,3 +54,15 @@ body {
     }
   }
   
+  .spacing-reset {
+    padding: 0;
+    margin: 0;
+    border: 0;
+  }
+  
+  .list-reset {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    border: 0;
+  }
